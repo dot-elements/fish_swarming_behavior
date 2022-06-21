@@ -1,0 +1,1 @@
+[{'attack_furthest': 0.5767955796724837, 'attack_closest': 0.30416775842937827}, {'attack_furthest': 0.5767955796724837, 'attack_closest': 0.30416775842937827}, {'attack_furthest': 0.658885587441949, 'attack_closest': 0.3724379918186046}]
